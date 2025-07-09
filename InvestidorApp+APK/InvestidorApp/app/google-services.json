@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495860850862",
+    "project_id": "invest-app-erick",
+    "storage_bucket": "invest-app-erick.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495860850862:android:546dc7365d87f1ab744d3f",
+        "android_client_info": {
+          "package_name": "com.example.investidorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOr5SPNVYbtOA8QpE4eh8CCqHdUlAebYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
