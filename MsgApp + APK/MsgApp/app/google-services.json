@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26098100704",
+    "project_id": "msg-app-erick",
+    "storage_bucket": "msg-app-erick.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26098100704:android:0a84bae2d8e51b890aa385",
+        "android_client_info": {
+          "package_name": "com.example.msgapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyOjqM11AFSVzY6ZBBQ3h08k4f7GIPXmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
