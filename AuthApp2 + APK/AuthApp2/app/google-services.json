@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "571142652665",
+    "project_id": "authappplusplus-erick",
+    "storage_bucket": "authappplusplus-erick.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571142652665:android:5cddc5a294dcb2b7b1d828",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571142652665-0ch9jot4tbg3r4vg33q8g7ar44cn6322.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authapp",
+            "certificate_hash": "7b19e575ca5787059ee5ff8349d9e3e1348d4416"
+          }
+        },
+        {
+          "client_id": "571142652665-dcb2860ldr9j3tt2qfq4g7b45fc48d8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuHJ24XKL5eTpwMWI4Q7mQV_r9-akEJJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571142652665-dcb2860ldr9j3tt2qfq4g7b45fc48d8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
